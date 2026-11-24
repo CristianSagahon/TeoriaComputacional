@@ -1,0 +1,4 @@
+# Enlaces repetidos y escritos al reves
+Router1,Switch1
+Switch1,Router1
+Router1,Switch1

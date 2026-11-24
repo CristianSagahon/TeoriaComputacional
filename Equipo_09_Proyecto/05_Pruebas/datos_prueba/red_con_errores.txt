@@ -1,0 +1,5 @@
+Router1,Switch1
+router1,Switch2
+PC1,PC1
+Switch1;PC2
+Laptop1

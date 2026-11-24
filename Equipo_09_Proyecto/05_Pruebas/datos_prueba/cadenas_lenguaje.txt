@@ -1,0 +1,22 @@
+# Cadenas de la Etapa 3 con su resultado esperado.
+# Formato: ID cadena RESULTADO   (EPSILON representa la cadena vacía)
+V1 ptpt ACEPTA
+V2 prptpt ACEPTA
+V3 ptptpr ACEPTA
+V4 ptptpt ACEPTA
+V5 prprptpt ACEPTA
+V6 ptptprpr ACEPTA
+V7 prptptpr ACEPTA
+V8 ptptptpt ACEPTA
+V9 prptptprpt ACEPTA
+V10 prprprptptpr ACEPTA
+I1 EPSILON RECHAZA
+I2 pr RECHAZA
+I3 pt RECHAZA
+I4 prpt RECHAZA
+I5 ptprpt RECHAZA
+I6 prprprpr RECHAZA
+I7 ptt RECHAZA
+I8 ptptp RECHAZA
+I9 tptpt RECHAZA
+I10 ptpx RECHAZA

@@ -1,0 +1,5 @@
+PC1:prpr
+PC2:ptt
+Server1 : ptpt
+PC1:pt
+Laptop1:pr

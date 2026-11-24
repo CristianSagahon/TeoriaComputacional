@@ -1,0 +1,14 @@
+# Red del laboratorio de computo (ficticia)
+# Formato: Dispositivo,Dispositivo  (un enlace por linea)
+# Una linea con un solo dispositivo lo registra sin enlaces.
+Router1,Router2
+Router1,Switch1
+Router1,Switch2
+Router2,Switch2
+Router2,Switch3
+Switch1,PC1
+Switch1,PC2
+Switch2,Server1
+Switch3,PC3
+Switch3,Server2
+PC4

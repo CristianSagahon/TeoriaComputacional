@@ -1,0 +1,7 @@
+# Registro de pings por dispositivo
+# Formato: Dispositivo:eventos   p = ping enviado, r = respuesta, t = timeout
+PC1:prprpr
+PC2:prptpr
+Server1:ptptpr
+Server2:prptpt
+PC3:prpt
